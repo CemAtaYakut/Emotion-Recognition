@@ -9,7 +9,7 @@ The task is to categorize each face based on the emotion shown in the facial exp
 
 I use only 3 categories (happy, neutral, suprise) aiming that I'll be creating other emotinal states using these 3 categories. But that will be a further issue.
 
-You need to *downnload* the dataset with selected categories using this link: https://www.kaggle.com/datasets/msambare/fer2013
+You need to **download** the dataset with selected categories using this link: https://www.kaggle.com/datasets/msambare/fer2013
 
 There should be test and train directories containg emotional states inside archive directory. 
 <code> archive/test, train/happy, neutral, suprise </code>
@@ -20,6 +20,6 @@ After traning the model you can go strait into importing test files see the resu
 
 Test model accuracy for improvments if you want and feel free to play around.
 
-*Current Accuracy Score:*
+**Current Accuracy Score:**
 
 ![image](https://github.com/user-attachments/assets/2a7bf2ad-dcad-423f-ac86-979e5dc6cf2e)
