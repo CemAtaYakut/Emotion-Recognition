@@ -1,4 +1,4 @@
-# Image-Recognition
+# Emotion-Recognition
 
 This program uses FER2013 DATASET.
 
