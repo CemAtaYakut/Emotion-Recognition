@@ -22,5 +22,5 @@ Test model accuracy for improvments if you want and feel free to play around.
 
 **Current Accuracy Score:**
 
-<img src="https://github.com/user-attachments/assets/21c12c3b-79a2-45c3-99f0-f10d80f7bfb9" width="560">
+<img src="https://github.com/user-attachments/assets/21c12c3b-79a2-45c3-99f0-f10d80f7bfb9" width="500">
 
