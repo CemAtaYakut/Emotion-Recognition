@@ -22,4 +22,4 @@ Test model accuracy for improvments if you want and feel free to play around.
 
 **Current Accuracy Score:**
 
-![image](https://github.com/user-attachments/assets/2a7bf2ad-dcad-423f-ac86-979e5dc6cf2e)
+![accuracy-score](https://github.com/user-attachments/assets/21c12c3b-79a2-45c3-99f0-f10d80f7bfb9)
